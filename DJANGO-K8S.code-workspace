@@ -15,9 +15,6 @@
         },
         "terminal.integrated.env.linux": {
             "KUBECONFIG": "${workspaceFolder}/.kube/kubeconfig.yaml"
-        },
-        "yaml.schemas": {
-            "https://json.schemastore.org/github-workflow.json": "file:///Users/jmitch/Dev/django-kubernetes/.github/workflows/build.yaml"
         }
     }
 }
